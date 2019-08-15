@@ -31,9 +31,11 @@ Median time before development of a plasma cell malignancy was 31 years. Hgb and
 High survival probabilities even at longer time points reflect the low prevalence of progression to a plasma cell malignancy. This study is limited by the use of potentially outdated data and by the low number of events, resulting in poor statistical power to detect possible differences in survivorship between genders. Future work should consider the most recent criteria for diagnosing monoclonal gammopathy of undetermined significance as well as the inclusion of race and family history as a covariate.
 
 ## References
--Monoclonal gammopathy of undetermined significance (MGUS). (2017, July 29). Retrieved March 03,
+- Monoclonal gammopathy of undetermined significance (MGUS). (2017, July 29). Retrieved March 03,
 	2018, from https://www.mayoclinic.org/diseases-conditions/mgus/symptoms-causes/syc-20352362
--Kyle, R. A., Therneau, T. M., Rajkumar, S. V., Offord, J. R., Larson, D. R., Plevak, M. F., & Melton III,
+	
+- Kyle, R. A., Therneau, T. M., Rajkumar, S. V., Offord, J. R., Larson, D. R., Plevak, M. F., & Melton III,
 	L. J. (2002). A long-term study of prognosis in monoclonal gammopathy of undetermined significance. New England Journal of Medicine, 346(8), 564-569.
--van de Donk, N. W., Palumbo, A., Johnsen, H. E., Engelhardt, M., Gay, F., Gregersen, H., ... & Musto, P.
+	
+- van de Donk, N. W., Palumbo, A., Johnsen, H. E., Engelhardt, M., Gay, F., Gregersen, H., ... & Musto, P.
 	(2014). The clinical relevance and management of monoclonal gammopathy of undetermined significance and related disorders: recommendations from the European Myeloma Network. Haematologica, 99(6), 984-996.
